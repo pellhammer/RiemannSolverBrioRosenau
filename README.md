@@ -6,6 +6,7 @@ Riemann solver for the Brio-Roseanu model. Examples for the solver applied in th
 
 All codes are written in MATLAB R2023a.
 
+**preliminary version, gets updated soon**
 
 ## Author
 + [Valentin Pellhammer](http://www.math.uni-konstanz.de/~pellhammer/)  
